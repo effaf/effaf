@@ -1,10 +1,10 @@
 ## Hello 👋
 
--🌱 I am currently exploring and learning about LLM agents
+- 🌱 I am currently exploring and learning about LLM agents
 
--🔭 I develop full stack web applications using Next.js
+- 🔭 I develop full stack web applications using Next.js
 
--⚡ In my free time I watch stand up comedy, and The Office 1400th time!
+- ⚡ In my free time I watch stand up comedy, and The Office 1400th time!
 
 ### projects I have recently been working on
 - 
