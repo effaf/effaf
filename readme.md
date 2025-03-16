@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hello 👋
 
+- I am currently exploring and learning about LLM agents
+- I develop full stack web applications using Next.js
+- In my free time I watch stand up comedy, and The Office 1400th time
+
+### Here is a list of my recent projects
+- 
 <!--
 **effaf/effaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
