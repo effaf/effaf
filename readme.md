@@ -2,13 +2,11 @@
 
 - 🌱 I am currently exploring and learning about LLM agents
 
-- 🔭 I develop full stack web applications using Next.js
+- 🔭 I develop full stack web applications using Java, SpringBoot and TypeScript
 
 - ⚡ In my free time I watch stand up comedy, and The Office 1400th time!
 
 ### projects I am working on
-- Skill-startup matcher - A next.js web app which allows users to find startups based on their interest/skills [Project link](https://github.com/effaf/webAgent)
-- Diabetes specialist - Fine tuned LLama using QLoRA. [Project Link](https://github.com/effaf/diabetes-chatbot)
 - Python package - [CSES AID](https://pypi.org/project/cses-aid/)
 - Check out my blog - [Blog](https://github.com/effaf/tech_journal)
 
